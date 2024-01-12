@@ -16,11 +16,8 @@
 -  ### Badges & Languages
     - ![Python](https://img.shields.io/badge/Python-Intermediate-blue) ![YOLOv8](https://img.shields.io/badge/YOLOv8-Medium-red) ![GUI Development](https://img.shields.io/badge/GUI_Development-Intermediate-yellow) ![Studio 5000](https://img.shields.io/badge/Studio_5000-Intermediate-lightgrey) ![Autocad Electrical](https://img.shields.io/badge/Autocad_Electrical-Intermediate-red) ![FastApi](https://img.shields.io/badge/FastApi-Exploring-lightgreen)
 - ### <em> Contact </em>
-  - 📫 How to reach me: [provide your contact details].
-- ### <em> Pronouns </em>
-  - 😄 [Your pronouns]
-- ### <em> Fun Fact </em>
-  - ⚡ [Share a fun fact about yourself]
+  - 📫 How to reach me: https://www.linkedin.com/in/daniel-lizarazo-04975a184?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 <!---
 daniellizarazoo/daniellizarazoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
