@@ -14,7 +14,8 @@
   - 🎨 GUI applications in Python
   - 🕹️ PLC (Programmable Logic Controllers)
 -  ### Badges & Languages
-    - ![Python](https://img.shields.io/badge/Python-Intermediate-blue) ![YOLOv8](https://img.shields.io/badge/YOLOv8-Medium-red) ![GUI Development](https://img.shields.io/badge/GUI_Development-Intermediate-yellow) ![Studio 5000](https://img.shields.io/badge/Studio_5000-Intermediate-lightgrey) ![Autocad Electrical](https://img.shields.io/badge/Autocad_Electrical-Intermediate-red) ![FastApi](https://img.shields.io/badge/FastApi-Exploring-lightgreen)
+    - ![Python](https://img.shields.io/badge/Python-Intermediate-blue) ![YOLOv8](https://img.shields.io/badge/YOLOv8-Medium-red) ![GUI Development](https://img.shields.io/badge/GUI_Development-Intermediate-yellow) ![Studio 5000](https://img.shields.io/badge/Studio_5000-Intermediate-lightgrey) ![Autocad Electrical](https://img.shields.io/badge/Autocad_Electrical-Intermediate-red) ![FastApi](https://img.shields.io/badge/FastApi-Intermediate-lightgreen)
+![PySide6](https://img.shields.io/badge/PySide6-Intermediate-lightred) 
 - ### <em> Contact </em>
   - 📫 How to reach me: https://www.linkedin.com/in/daniellizarazoo
 
