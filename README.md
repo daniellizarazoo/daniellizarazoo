@@ -8,10 +8,15 @@
   - 🖥️ Software development and programming
   - 🤖 Robotics
 
-- ### <em> Learning </em>
-  - 🐍 Python programming
-  - 📷 Computer Vision with YOLOv8
-  - 🎨 GUI applications in Python
+- ### <em> Knowledge </em>
+  - 🧑‍💻 Design of electrical diagrams in AutoCAD Electrical.
+  - 🧑‍💻 GUI applications in Python using PySide6.
+  - 🧑‍💻 Computer Vision using  Python and YOLOv8.
+  - 🧑‍💻 Frontend development using React.
+  - 🧑‍💻 Backend development using FastAPI or Express.
+  - 🧑‍💻 REST API's.
+  - 🧑‍💻 PostgreSQL, SQLITE, MongoDB, InfluxDB.
+  - 🧑‍💻 Design of internet of things solutions for manufacturing industries.
   - 🕹️ PLC (Programmable Logic Controllers)
 -  ### Badges & Languages
     - ![Python](https://img.shields.io/badge/Python-Intermediate-blue) ![YOLOv8](https://img.shields.io/badge/YOLOv8-Medium-red) ![GUI Development](https://img.shields.io/badge/GUI_Development-Intermediate-yellow) ![Studio 5000](https://img.shields.io/badge/Studio_5000-Intermediate-lightgrey) ![Autocad Electrical](https://img.shields.io/badge/Autocad_Electrical-Intermediate-red) ![FastApi](https://img.shields.io/badge/FastApi-Intermediate-lightgreen)
