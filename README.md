@@ -8,19 +8,28 @@
   - 🖥️ Software development and programming
   - 🤖 Robotics
 
+- ### <em> Soft Skills </em>
+  - 🤝 Teamwork.
+  - 🤝 Continuous learning.
+  - 🤝 Critical thinking.
+  - 🤝 Adaptability.
+  - 🤝 Problem solving.
+ 
 - ### <em> Knowledge </em>
   - 🧑‍💻 Design of electrical diagrams in AutoCAD Electrical.
   - 🧑‍💻 GUI applications in Python using PySide6.
   - 🧑‍💻 Computer Vision using  Python and YOLOv8.
+  - 🧑‍💻 HTML and CSS basics.
   - 🧑‍💻 Frontend development using React.
   - 🧑‍💻 Backend development using FastAPI or Express.
   - 🧑‍💻 REST API's.
   - 🧑‍💻 PostgreSQL, SQLITE, MongoDB, InfluxDB.
   - 🧑‍💻 Design of internet of things solutions for manufacturing industries.
-  - 🕹️ PLC (Programmable Logic Controllers)
--  ### Badges & Languages
-    - ![Python](https://img.shields.io/badge/Python-Intermediate-blue) ![YOLOv8](https://img.shields.io/badge/YOLOv8-Medium-red) ![GUI Development](https://img.shields.io/badge/GUI_Development-Intermediate-yellow) ![Studio 5000](https://img.shields.io/badge/Studio_5000-Intermediate-lightgrey) ![Autocad Electrical](https://img.shields.io/badge/Autocad_Electrical-Intermediate-red) ![FastApi](https://img.shields.io/badge/FastApi-Intermediate-lightgreen)
-![PySide6](https://img.shields.io/badge/PySide6-Intermediate-lightred) 
+  - 🧑‍💻 PLC (Programmable Logic Controllers).
+
+-  ### <em> Currently working on </em>
+    - 🧑‍💻 Development of a CMMS software. This software is designed to help organizations streamline their maintenance operations by managing work orders, assets, inventory and maintenance schedules.
+
 - ### <em> Contact </em>
   - 📫 How to reach me: https://www.linkedin.com/in/daniellizarazoo
 
