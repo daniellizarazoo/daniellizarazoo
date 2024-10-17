@@ -1,4 +1,7 @@
 # Who am I? 
+  
+  ## Visit my portfolio : [https://daniellizarazoo.github.io/portfolio/](https://daniellizarazoo.github.io/portfolio/)
+  
   - <em>👋 Hi, I'm Daniel, an Electronic Engineer with a passion for automation and programming. My journey in the realm of technology has been driven by a curiosity
     to explore the intersection of electronics and software.🤖
     ![Imagen de WhatsApp 2024-01-12 a las 08 32 03_2e11cf26](https://github.com/daniellizarazoo/daniellizarazoo/assets/125221451/cdd238ef-2d0b-41d6-a119-b5b05a99417d)</em>
